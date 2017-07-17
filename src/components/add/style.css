@@ -1,0 +1,23 @@
+.input {
+  margin-bottom: 10px;
+}
+
+.span {
+  position: absolute;
+  top: 0;
+  right: -15px;
+}
+
+.add {
+  color: #80C651;
+}
+
+.span1 {
+  position: relative;
+  top: -41px;
+  left: 342px;
+}
+
+.title {
+  margin-left: 200px;
+}

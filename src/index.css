@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #E6E6E6;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}

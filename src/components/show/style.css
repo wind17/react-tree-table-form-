@@ -1,0 +1,50 @@
+.header {
+  height: 60px;
+  .left {
+    text-align: center;
+    height: 100%;
+    width: 20%;
+    background-color: #50B517;
+    float: left;
+    color: white;
+    .span {
+      display: inline-block;
+      margin-top: 20px;
+    }
+  }
+  .right {
+    text-align: center;
+    height: 100%;
+    width: 80%;
+    float: left;
+    .spanLeft {
+      margin-top: 20px;
+      display: inline-block;
+      float: left;
+    }
+    .button {
+      margin-top: 20px;
+      margin-right: 20px;
+      float: right;
+      color: white;
+      background-color: #1AAD19;
+    }
+  }
+}
+
+.side {
+  width: 20%;
+  background-color: #1AAD19;
+  float: left;
+  .tree {
+    display: block;
+    margin-left: 40px;
+    margin-top: 10px;
+    background-color: white;
+  }
+}
+
+.rightSide {
+  width: 80%;
+  float: left;
+}

@@ -1,0 +1,87 @@
+{
+  "success": true,
+  "product_categories": [
+    {
+      "product_category_id": 1,
+      "product_category_name": "安可唯",
+      "next_product_categories": [
+        {
+          "product_category_id": 3,
+          "product_category_name": "PDX"
+        },
+        {
+          "product_category_id": 4,
+          "product_category_name": "MINI-PDX"
+        },
+        {
+          "product_category_id": 5,
+          "product_category_name": "TCA"
+        },
+        {
+          "product_category_id": 8,
+          "product_category_name": "分子检测",
+          "next_product_categories": [
+            {
+              "product_category_id": 9,
+              "product_category_name": "结直肠癌"
+            },
+            {
+              "product_category_id": 10,
+              "product_category_name": "肺癌",
+              "next_product_categories": [
+                {
+                  "product_category_id": 65,
+                  "product_category_name": "肺癌化疗药物",
+                  "next_product_categories": []
+                }
+              ]
+            },
+            {
+              "product_category_id": 11,
+              "product_category_name": "乳腺癌"
+            },
+            {
+              "product_category_id": 12,
+              "product_category_name": "胃癌"
+            },
+            {
+              "product_category_id": 13,
+              "product_category_name": "妇科"
+            },
+            {
+              "product_category_id": 14,
+              "product_category_name": "心血管",
+              "next_product_categories": []
+            }
+          ]
+        },
+        {
+          "product_category_id": 66,
+          "product_category_name": "测试",
+          "next_product_categories": [
+            {
+              "product_category_id": 67,
+              "product_category_name": "测试2",
+              "next_product_categories": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "product_category_id": 2,
+      "product_category_name": "安可巡",
+      "next_product_categories": [
+        {
+          "product_category_id": 6,
+          "product_category_name": "CTC"
+        },
+        {
+          "product_category_id": 51,
+          "product_category_name": "基因检测",
+          "next_product_categories": []
+        }
+      ]
+    }
+  ]
+}
